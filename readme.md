@@ -15,6 +15,10 @@
 
 ![Image alt](/screenshots/main.png)
 
+![Image alt](/screenshots/detail.png)
+
+![Image alt](/screenshots/main_with_db.png)
+
 # Contributing
 Программа создана по тестовому заданию [ЦТФ](https://www.cft.ru/).
 
