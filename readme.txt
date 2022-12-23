@@ -13,11 +13,11 @@
 # Использование
 Вводите номер карты. При нажатии на кнопку "Send a request" отправляется запрос на сервер. Если информация от сервера вернется, то она будет отображена на экране дополнительной информации, иначе будет выведено сообщение об ошибке.
 
-![This is an image](/screenshots/main.png)
+![This is an image](screenshots/main.png)
 
-![This is an image2](/screenshots/detail.png)
+![This is an image2](screenshots/detail.png)
 
-![This is an image3](/screenshots/main_with_db.png)
+![This is an image3](screenshots/main_with_db.png)
 
 # Contributing
 Программа создана по тестовому заданию [ЦТФ](https://www.cft.ru/).
