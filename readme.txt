@@ -13,7 +13,7 @@
 # Использование
 Вводите номер карты. При нажатии на кнопку "Send a request" отправляется запрос на сервер. Если информация от сервера вернется, то она будет отображена на экране дополнительной информации, иначе будет выведено сообщение об ошибке.
 
-![Image alt](https://github.com/AndreyKoroliov1981/testShiftGKCFT/blob/main/screenshots/main.png)
+![Image alt](/screenshots/main.png)
 
 # Contributing
 Программа создана по тестовому заданию [ЦТФ](https://www.cft.ru/).
