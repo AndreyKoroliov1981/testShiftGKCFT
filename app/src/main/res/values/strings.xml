@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="text_delete_list">Delete list</string>
+    <string name="text_send_a_request">Send a request</string>
+    <string name="text_no_data_in_db">There are no records in the database</string>
+    <string name="text_detail_information">Detail Information</string>
+    <string name="text_bin_bank_card">BIN bank card:</string>
+    <string name="text_scheme_network">SCHEME / NETWORK:</string>
+    <string name="text_brand">BRAND:</string>
+    <string name="text_type">TYPE:</string>
+    <string name="text_country">COUNTRY:</string>
+    <string name="currency">currency %1$s</string>
+    <string name="latitude">latitude %1$s</string>
+    <string name="longitude">longitude %1$s</string>
+    <string name="text_bank">BANK:</string>
+    <string name="text_not_defined">n/a</string>
+
+
+</resources>
